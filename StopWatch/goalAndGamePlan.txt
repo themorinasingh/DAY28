@@ -1,0 +1,2 @@
+Goal: Once Timer is comeplete, there is a message that says timer cmeplete
+also add a reset button, a stop button and a start button
